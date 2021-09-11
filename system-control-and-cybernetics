@@ -1,12 +1,49 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Sistem dan Sibernetika Lebih dari Sekedar Robotika</title>
+<title>Sistem, Pengaturan dan Sibernetika: Ilmu yang Komprehensif di Balik Teknologi Robotika</title>
 </head>
 <body>
 
 <h1>Sistem dan Pengaturan</h1>
-<p>Apa itu sistem dan apa itu pengaturan, serta apa bedanya?<br>Kemudian apa itu sibernetika?</p>
+<p> Paragraf pertama: Sistem dan contohnya
+    Paragraf kedua  : Pengaturan dan contohnya
+    Paragraf ketiga : Perbedaan antara sistem dan pengaturan
+    Paragraf keempat: Sibernetika dan contohnya
+    Paragraf kelima : Perbedaan antara sistem dan sibernetika
+    Paragraf keenam : Laboratorium Sistem dan Sibernetika TSP
+    Paragraf ketujuh: Alasan mendaftar lab 405
+    <hr>
+</p>
 
+<p>
+If you ask “what is the situation that is being observed or considered?” then you are taking a cybernetic stance. I f you ask, “what is the system that is being observed or considered?” then you are taking a systems stance. If you are taking a system stance then you are attempting to describe an abstract system that you model as having influence over the parts while the parts are critical to the overall system. If you are taking a cybernetic stance, you are still being systemic, but you do so from a more phenomenological and directive or design point of view, that is a close and intimate observation of the actual situation.
+
+The situation is not however abstract. It is polysemic and polydimensional. But the situation is always a situation to an observer arising from a set of ‘relevant’ aspects. Situations reproduce themselves in similar contexts just as systems are said to reproduce themselves.
+
+The situation might be that every time a specific tennis player or team is about to beat a better opponent they flunk it. A systems analysis would attempt to understand the system of say the football team. A cybernetic analysis would consider which aspects of the situation would need to be modified in order to produce a different free flow towards a successful outcome.
+
+Cybernetics led to the birth of design movements. GSM did not.
+
+Both of these ways of operating are highly sophisticated and take a lot of learning to do well so this is a tremendous simplification. Cybernetics is useful to robots (although many AI and robotic engineers do not understand it or use it well) precisely because it is precise and deals with actual realities — for example what the camera or sensing mechanism on the robot is actually able to perceive. Both approaches are likely to use “negative feedback” as an aspect of corrections that maintain required goals order.
+
+If you are interested consider joining the Cybernetics Society.
+</p>
+
+<p>
+Cybernetics is a field that started in Norbert Wiener about 70 years ago, and is roughly about the control of complex systems.
+
+The word comes from the greek word "kybernetes" which roughly means "steersman". A steersman is someone who steers a boat. If the boat goes too far left, the steersman will steer it slightly right, and vice versa. This is essentially what it's all about: controlling a system by observing the difference between desired behaviour and actual behaviour and using that as an input to guide the system.
+
+Think of a thermostat that controls temperature in a home. The user sets the desired temperature. Then, as it's running, the system measures the actual temperate and compares it with the desired one. If the actual temperature is too low, it switches on a heater. If it is too high, it turns the heater off. This is exactly analogous to the steersman: Controlling a system by feeding the error (the difference between measured and desired state) back into the control system.
+
+This is a "closed loop" system. "Open loop" means the error is not used in the control, so essentially the system is blind. This is okay if the system is simple, accurate and robust against perturbations.
+
+A system can be anything. A factory robot, a Mars rover, a powerplant, a chemical refinery, a biological organism, an interface between biology and technology, an ecosystem, etc. Cybernetics is the science of analysing and controlling any complex system. The reason it is so powerfully linked with robotics is because that's where it is most explicitly used.
+
+If you build a robot, you want it to act intelligently. It needs sensors to move around using the "sense, think, act" loop. This loop is what cybernetics is all about.
+</p>
+
+<p>Apa itu sistem dan apa itu pengaturan, serta apa bedanya?<br>Kemudian apa itu sibernetika?<br>Sistem secara singkat dapat diartikan sebagai kumpulan prosedur, tindakan, susunan, atau proses yang dilakukan untuk memaksa dan mengubah suatu kondisi menjadi kondisi yang diinginkan.  </p>
 </body>
 </html>
