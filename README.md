@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beibah
+- 👋 Hi there, u can call me beibz
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning cybernetics
 - 💞️ I’m looking to collaborate on system engineering or project management
